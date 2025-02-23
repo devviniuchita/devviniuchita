@@ -138,3 +138,6 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
   />
 </p>
+
+</br></br></br></br></br></br></br></br>
+<p align="left"> <img align="left" src="https://profile-counter.glitch.me/devviniuchita/count.svg" /></p>
