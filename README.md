@@ -125,12 +125,7 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
 
 <p>
 <img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800&langs_count=9&hide=Rich%20Text%20Format" />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="_count=9&cache_seconds=1800"
-  />
+<img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&theme=tokyonight&layout=compact&langs_count=9&hide=Rich%20Text%20Format&cache_seconds=1800" />
 </p>
 
 </br></br></br></br></br></br></br></br>
