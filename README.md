@@ -130,3 +130,30 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
 
 </br></br></br></br></br></br></br></br>
 <p align="left"> <img align="left" src="https://profile-counter.glitch.me/devviniuchita/count.svg" /></p>
+</br></br>
+
+<p align="center">
+  <em>"Pra suportar e crescer, foi preciso renascer.<br>
+  Esquecer quem eu já fui, pra ser quem sempre almejei.<br>
+  Eu sei o quanto treinei — e mesmo assim, não cheguei —<br>
+  Pra ser completamente o oposto do que um dia já fui.</em>
+</p>
+
+<p align="center">
+  <em>Você não substitui a sua história, você cria uma nova.<br>
+  Não se aproveita fracassos — seja sincero.<br>
+  Ninguém é livre de falhas! O prêmio de quem trabalha,<br>
+  é acreditar que, quando errar, pode recomeçar tudo do zero.</em>
+</p>
+
+<p align="center">
+  <em>E essa dádiva eu tive. Mas, se pensar que foi fácil<br>
+  superar todos os medos, arriscar tudo por um resultado incerto...<br>
+  A zona de conforto atrapalha. São as batalhas<br>
+  que me fazem acreditar que o sonho fica mais perto."</em>
+</p>
+
+<p align="center">
+  🚀 <strong>#KeepBuilding • #NeverSettle • #FromZeroToDev</strong> 💻
+</p>
+
