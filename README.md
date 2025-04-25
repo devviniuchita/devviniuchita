@@ -17,6 +17,39 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+/>
+<img 
+  align="left"
+  alt="Spring Boot"
+  title="Spring Boot"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+  align="left"
+  alt="Node.js"
+  title="Node.js"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+/>
+
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -57,6 +90,32 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
+  align="left"
+  alt="Vite"
+  title="Vite"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"
+/>
+
+<img 
+  align="left"
+  alt="Next.js"
+  title="Next.js"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+/>
+<img 
+  align="left"
+  alt="NestJS"
+  title="NestJS"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://nestjs.com/img/logo-small.svg"
+/>
+
+<img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
@@ -74,14 +133,6 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -89,48 +140,32 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left"
-    alt="Node.js"
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+  align="left"
+  alt="Docker"
+  title="Docker"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
 />
 <img 
   align="left"
-  alt="Java"
-  title="Java"
+  alt="MySQL"
+  title="MySQL"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 />
-<img
-  align="left"
-  alt="Csharp"
-  title="Csharp"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-/><br><br>
+<br><br><br><br>
 
 ### 📊 Estatísticas
 
 <p>
-<img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800&langs_count=9&hide=Rich%20Text%20Format" />
-<img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&theme=tokyonight&layout=compact&langs_count=9&hide=Rich%20Text%20Format&cache_seconds=1800" />
+  <img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=5&langs_count=9&hide=Rich%20Text%20Format" />
+  <img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&theme=tokyonight&layout=compact&langs_count=9&hide=Rich%20Text%20Format&cache_seconds=5" />
 </p>
 
-</br></br></br></br></br></br></br></br>
 <p align="left"> <img align="left" src="https://profile-counter.glitch.me/devviniuchita/count.svg" /></p>
-</br></br>
+</br></br></br></br></br></br></br></br></br></br>
 
 <p align="center">
   <em>"Pra suportar e crescer, foi preciso renascer.<br>
