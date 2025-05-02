@@ -24,22 +24,7 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
   style="padding-right: 10px;" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
 />
-<img 
-  align="left"
-  alt="Spring Boot"
-  title="Spring Boot"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+
 <img 
   align="left"
   alt="Node.js"
@@ -89,31 +74,6 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-  align="left"
-  alt="Vite"
-  title="Vite"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"
-/>
-
-<img 
-  align="left"
-  alt="Next.js"
-  title="Next.js"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-/>
-<img 
-  align="left"
-  alt="NestJS"
-  title="NestJS"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://nestjs.com/img/logo-small.svg"
-/>
 
 <img 
     align="left" 
@@ -131,30 +91,7 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left"
-  alt="Docker"
-  title="Docker"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-/>
-<img 
-  align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-/>
+
 <br><br><br><br>
 
 ### 📊 Estatísticas
