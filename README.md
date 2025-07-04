@@ -104,7 +104,8 @@ Olá, me chamo **Vinícius Vieira Uchita**, tenho 36 anos e sou natural de São 
 <p align="left"> <img align="left" src="https://profile-counter.glitch.me/devviniuchita/count.svg" /></p>
 </br></br></br></br></br></br></br></br></br></br>
 
-<p align="center">
+
+<p align="right">
   <em>"Pra suportar e crescer, foi preciso renascer.<br>
   Esquecer quem eu já fui, pra ser quem sempre almejei.<br>
   Eu sei o quanto treinei — e mesmo assim, não cheguei —<br>
