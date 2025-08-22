@@ -44,25 +44,20 @@
   <img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="TailwindCSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </p></div>
 
 ### Back-End
 <div style="display: inline_block">
 <p align="left">
-  <img align="center" alt="NodeJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SpringBoot" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Maven" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-  <img align="center" alt="Gradle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
+  <img align="center" alt="NodeJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt=".NET" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p></div>
 
 ### Versionamento & DevOps
@@ -71,20 +66,18 @@
   <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="50" width="60" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.svg">
   <img align="center" alt="GitAction" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/>
-  <img align="center" alt="Docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Postman" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="API REST" height="50" width="80" src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white">
   <img align="center" alt="JWT" height="60" width="70" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 </p></div>
 
-### Banco de Dados
+### Banco de Dados e Plataformas
 <div style="display: inline_block">
 <p>
-  <img align="center" alt="Azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="AWS" height="50" width="60" src="https://logo.svgcdn.com/l/aws.svg">
 </p></div><br>
 
@@ -92,14 +85,14 @@
 
 ## 🤖 Iniciando estudos com Inteligência Artificial e Ferramentas de LLM
 
-Estou me aprofundando nas tecnologias que estão moldando o futuro do desenvolvimento de software com IA. <br>
-Abaixo estão as ferramentas e conceitos que venho estudando e aplicando em projetos pessoais e ambientes controlados:
+Estou aprofundando meus estudos nas tecnologias que estão moldando o futuro do desenvolvimento de software com IA. <br>
+Abaixo estão as ferramentas e conceitos que venho aprendendo, aperfeiçoando e aplicando em projetos pessoais e ambientes controlados:
 
 - 🔍 **RAG (Retrieval-Augmented Generation)**<br> 
   Estudo de arquiteturas que combinam IA com busca vetorial para respostas mais precisas em contextos específicos.
 
-- 🎯 **YOLO (You Only Look Once)**<br>
-  Experimentos com detecção de objetos usando modelos como o YOLOv5 e YOLOv8 em projetos de reconhecimento básico de imagens.
+- 🎯 **YOLO Mode (You Only Live Once – Modo Autônomo)**<br>
+  Implementação de agents e LLMs operando de forma autônoma e contínua, permitindo execução de tarefas, tomada de decisões e geração de código com intervenção mínima. Ideal para Vibe Coding: fluidez, criatividade e produtividade maximizada.
 
 - 🧠 **Prompt Engineering**<br> 
   Aprimorando a habilidade de criar prompts eficazes para LLMs (como GPT-4, Claude e Gemini), com foco em instruções claras, contextos estruturados e respostas consistentes.
@@ -136,7 +129,7 @@ Abaixo estão as ferramentas e conceitos que venho estudando e aplicando em proj
 ---
 
 ## ⚙️ Sobre mim
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Presbiteriana Mackenzie**, além dos cursos intensivos de: **Desenvolvedor Web** no **Bootcamp TripleTen** e no **Programa de Formação em Tecnologia** com foco em projetos **Back-end** na **Oracle Next Education (ONE) - Alura**.<br><br>
+Atualmente, cursando o terceiro semestre de **Análise e Desenvolvimento de Sistemas** na **Universidade Presbiteriana Mackenzie**, além dos cursos intensivos de: **Desenvolvedor Web** no **Bootcamp TripleTen** e no **Programa de Formação Tech Advanced** com foco em projetos **Back-end** na **Oracle Next Education (ONE) - Alura**.<br><br>
 
 ---
 
