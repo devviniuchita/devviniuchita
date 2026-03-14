@@ -1,151 +1,332 @@
-<!-- Banner -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
-<!-- Header -->
-<h1 align="center">Vinícius Uchita</h1>
-<p align="center"><strong>Estudante & Desenvolvedor FullStack</strong></p>
+<!--
+  ╔═══════════════════════════════════════════════════════════════════════════════╗
+  ║                        README ENTERPRISE GRADE v2.0                            ║
+  ║                    Designed for Vinícius Uchita | 2026                         ║
+  ╚═══════════════════════════════════════════════════════════════════════════════╝
+-->
 
-<p align="center">🌐 São Paulo - SP | Brasil</p><br>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              🎨 HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Me+chamo+Vinícius+Vieira+Uchita+e+tenho+36+anos;Sou+desenvolvedor+com+foco+em+IA;+e+sou+apaixonado+por+tecnologia+s2;Bem+vindo+ao+meu+GitHub!;Vamos+nos+conectar?+=D)](https://git.io/typing-svg)</p><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EF4444,100:EC4899&height=180&section=header&text=Vinícius%20Uchita&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20FullStack%20|%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <p align="center">
-<a href="mailto:viniciusuchita@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5511963840830"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/viniciusuchita/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/vincivieira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/viniciusvieira.uchita/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@vinnyvieira13"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://github.com/devviniuchita?tab=followers">
+    <img src="https://img.shields.io/github/followers/devviniuchita?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=orange" alt="GitHub followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=devviniuchita&label=Perfil%20Views&color=orange&style=for-the-badge&logo=eye" alt="Perfil views"/>
+  <img src="https://img.shields.io/badge/Available%20For-Hire-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Available"/>
 </p>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            💬 TYPING ANIMATION                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="left">
+<p align="center">
   <a href="https://github.com/devviniuchita">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=devviniuchita&show_icons=true&theme=algolia&locale=pt-br"/> 
-    <img height="190px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&layout=compact&theme=algolia&langs_count=10&hide=Rich%20Text%20Format"/>     
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=950&height=120&lines=Olá!;Me+chamo+Vinícius+Vieira+Uchita+e+tenho+37+anos;Sou+desenvolvedor+FullStack+Pleno+com+foco+em+IA;+e+sou+apaixonado+por+tecnologia+s2;Bem+vindo+ao+meu+GitHub!;Vamos+nos+conectar?+🤝" alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                             🔗 SOCIAL LINKS                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <a href="mailto:viniciusuchita@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511963840830">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/viniciusuchita/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/vincivieira/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@vinnyvieira13">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-São_Paulo,_Brasil-9333ea?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎓-Mackenzie_University-blue?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼-FullStack_Pleno-orange?style=for-the-badge&logoColor=white"/>
+</p><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            📊 GITHUB STATS                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
+  <a href="https://github.com/devviniuchita">
+    <img align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=devviniuchita&show_icons=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF&border_radius=12"/>
+  </a>
+  <a href="https://github.com/devviniuchita">
+    <img align="right" height="190" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devviniuchita&layout=compact&langs_count=10&hide=Rich%20Text%20Format&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&border_radius=12"/>
+  </a>
+</div>
+<br clear="both"/>
+
+<div align="center">
+
+  <!-- Linha 2: Streak -->
+  <a href="https://github.com/devviniuchita">
+    <img height="190" src="https://streak-stats.demolab.com?user=devviniuchita&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A1A1AA&dates=8B949E&border_radius=12"/>
+  </a>
+
+<br><br>
+
+  <!-- Linha 3: Activity Graph completo -->
+  <a href="https://github.com/devviniuchita">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devviniuchita&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true&border_radius=12"/>
+  </a>
 </div>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=devviniuchita&theme=algolia&border_radius=8" height="180"/>
-  <!-- Contador de visualizações do perfil-->
-  <img src="https://komarev.com/ghpvc/?username=devviniuchita&label=Perfil+views&color=blue&style=flat-square" height="180"/>
-</div><br>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            🏆 TROPHY CASE                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
----
-
-## 🧩 Tecnologias
-
-### Front-End
-<div style="display: inline_block">
-<p align="left">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="TailwindCSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</p></div>
-
-### Back-End
-<div style="display: inline_block">
-<p align="left">
-  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="SpringBoot" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Maven" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-  <img align="center" alt="NodeJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt=".NET" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</p></div>
-
-### Versionamento & DevOps
-<div style="display: inline_block">
-<p>
-  <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="50" width="60" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.svg">
-  <img align="center" alt="GitAction" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/>
-  <img align="center" alt="Postman" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="API REST" height="50" width="80" src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white">
-  <img align="center" alt="JWT" height="60" width="70" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-</p></div>
-
-### Banco de Dados e Plataformas
-<div style="display: inline_block">
-<p>
-  <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="AWS" height="50" width="60" src="https://logo.svgcdn.com/l/aws.svg">
-</p></div><br>
-
----
-
-## 🤖 Iniciando estudos com Inteligência Artificial e Ferramentas de LLM
-
-Estou aprofundando meus estudos nas tecnologias que estão moldando o futuro do desenvolvimento de software com IA. <br>
-Abaixo estão as ferramentas e conceitos que venho aprendendo, aperfeiçoando e aplicando em projetos pessoais e ambientes controlados:
-
-- 🔍 **RAG (Retrieval-Augmented Generation)**<br> 
-  Estudo de arquiteturas que combinam IA com busca vetorial para respostas mais precisas em contextos específicos.
-
-- 🎯 **YOLO Mode (You Only Live Once – Modo Autônomo)**<br>
-  Implementação de agents e LLMs operando de forma autônoma e contínua, permitindo execução de tarefas, tomada de decisões e geração de código com intervenção mínima. Ideal para Vibe Coding: fluidez, criatividade e produtividade maximizada.
-
-- 🧠 **Prompt Engineering**<br> 
-  Aprimorando a habilidade de criar prompts eficazes para LLMs (como GPT-4, Claude e Gemini), com foco em instruções claras, contextos estruturados e respostas consistentes.
-
-- 🤖 **Agentes de IA Autônomos (n8n, MCP Server)**<br>
-  Explorando ferramentas como o **n8n** e o **MCP Server** para automação de tarefas com lógica condicional, integração de APIs e execução orientada por IA.
-
-- 💡 **Conceitos de estudos atuais:**<br>
-  Uso de ferramentas como _LangChain_, _Ollama_ e _ChromaDB_ em ambiente local.<br>
-  
-  `Fine-tuning` | `In-context Learning` | `Chain-of-Thought` | `RLHF` | `embeddings` | `vetorização`<br><br>
-
-
-- 🧬 **Python & Machine Learning:**<br>
-  
-  `Python` | `Pandas` | `Numpy` | `Pydantic` | `Scikit-learn` | `TensorFlow` | `Keras` | `PyTorch` | `XGBoost`<br><br>
-  
-#
-
-<div style="display: inline_block">
 <p align="center">
-
-### Vibe Coding com ferramentas LLM-native<br>
-
-  <img align="center" alt="VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="IntelliJ" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Cursor" height="50" width="60" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg">
-  <img align="center" alt="Claude" height="50" width="60" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg">
-  <img align="center" alt="Gemini" height="50" width="60" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.svg">
-  <img align="center" alt="Windsurf" height="50" width="60" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/windsurf.svg">
-  <img align="center" alt="Trae" height="50" width="60" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/trae.svg">
-</p></div><br>
-
----
-
-## ⚙️ Sobre mim
-Atualmente, cursando o terceiro semestre de **Análise e Desenvolvimento de Sistemas** na **Universidade Presbiteriana Mackenzie**, além dos cursos intensivos de: **Desenvolvedor Web** no **Bootcamp TripleTen** e no **Programa de Formação Tech Advanced** com foco em projetos **Back-end** na **Oracle Next Education (ONE) - Alura**.<br><br>
-
----
-
-## 🧭 Filosofia
-
-> *"Você não substitui sua história,<br>
-                                        Você cria uma nova..."*  
-
----
-<br><br>
-##
-<br><br>
-<p align="center">
-  <strong>#ContinueConstruindo • #NuncaDesista • #HojeMelhorQueOntem</strong>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devviniuchita&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+  </a>
 </p>
 
-<!-- Footer -->
-</div>      
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            🐍 SNAKE ANIMATION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devviniuchita/devviniuchita/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devviniuchita/devviniuchita/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devviniuchita/devviniuchita/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          💻 TECH STACK & SKILLS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⚡ Tech Stack & Skills</h2>
+
+<div align="center">
+
+### 🎨 Front-End Development
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,vite,tailwind&perline=7&theme=dark"/>
+
+### ⚙️ Back-End Development
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,nestjs,java,spring,maven&perline=7&theme=dark"/>
+
+### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,aws,docker&perline=6&theme=dark"/>
+
+### 🛠️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,idea,vscode&perline=6&theme=dark"/>
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&perline=4&theme=dark"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                       🧠 AI & LLM SPECIALIZATION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🤖 AI & LLM Specialization</h2>
+
+<div align="center">
+
+|             🧠 **Conceito**              |                🛠️ **Tecnologias**                |   🎯 **Nível**    |
+| :--------------------------------------: | :----------------------------------------------: | :---------------: |
+| **RAG (Retrieval-Augmented Generation)** | VectorDB, Embeddings, Chunks, Overlap, Reranking | 🟢&nbsp;Avançado  |
+|          **Prompt Engineering**          |  Técnicas de Prompt, Few-Shot, Tree of Thoughts  | 🟢&nbsp;Avançado  |
+|       **Agentes de IA Autônomos**        |            LangChain, LangGraph, Agno            | 🟢&nbsp;Avançado  |
+|       **Spec-Driven Development**        |         Claude Code, Cursor, Antigravity         | 🟢&nbsp;Aplicando |
+|           **Observabilidade**            |             LangSmith, DataDog, KPIs             | 🟢&nbsp;Aplicando |
+|           **Machine Learning**           |        TensorFlow, PyTorch, Scikit-learn         | 🟡&nbsp;Estudando |
+|        **LLM-Native Development**        |       Fine-tuning, LoRA/PEFT, Quantização        | 🟡&nbsp;Estudando |
+
+<br>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥-RAG-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯-Prompt_Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖-LangChain-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠-Fine_Tuning-purple?style=for-the-badge"/>
+</p>
+
+<div align="center">
+
+### 🚀 Coding Tools
+
+<img src="https://img.shields.io/badge/Claude_Code-d97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-F5F5F5?style=for-the-badge&logo=google&logoColor=000000"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trae-10B981?style=for-the-badge&logo=trae&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovable-FF5757?style=for-the-badge&logo=magic&logoColor=white"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          📌 FEATURED PROJECTS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/devviniuchita?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devviniuchita&repo=devviniuchita&theme=orange&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF&border_radius=12" alt="Featured Repo"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/devviniuchita?tab=repositories">
+    <img src="https://img.shields.io/badge/📂-Ver_Todos_os_Projetos-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            📖 ABOUT ME                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">👨‍💻 Sobre Mim</h2>
+
+<div align="center">
+
+```yaml
+name: Vinícius Vieira Uchita
+location: São Paulo, SP - Brasil
+education: Análise e Desenvolvimento de Sistemas
+university: Universidade Presbiteriana Mackenzie
+semester: 4º Semestre
+role: Pleno Software Engineering FullStack
+focus: Inteligência Artificial & LLM
+passion: Tecnologia, Inovação e Spec-Driven Development
+```
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devviniuchita&theme=orange&hide_border=true" width="100%"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          💡 PHILOSOPHY & QUOTES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">💡 Filosofia</h2>
+
+<div align="center">
+
+> <img src="https://img.shields.io/badge/💭-Quote-orange?style=for-the-badge"/>
+>
+> _"Você não substitui sua história, você cria uma nova..."_
+>
+> <img src="https://img.shields.io/badge/🔥-Mantra-red?style=for-the-badge"/>
+>
+> **#ContinueConstruindo • #NuncaDesista • #HojeMelhorQueOntem**
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          🤝 LET'S CONNECT                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🤝 Vamos Conectar!</h2>
+
+<p align="center">
+  <i>Aberto a oportunidades, colaborações e troca de conhecimento!</i>
+</p>
+
+<p align="center">
+  <a href="mailto:viniciusuchita@gmail.com">
+    <img src="https://img.shields.io/badge/📧-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/viniciusuchita/">
+    <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511963840830">
+    <img src="https://img.shields.io/badge/💬-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            🎵 SPOTIFY WIDGET                                    -->
+<h2 align="center">🎧 O Hino do Dev</h2>
+
+<div align="center">
+<table style="border-collapse: collapse; border: none; background-color: transparent;">
+<tr>
+<!-- LADO ESQUERDO: Bento Box Textual (Manifesto) -->
+<td width="550" style="border: none; padding: 10px; vertical-align: middle;">
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; text-align: left;">
+<img src="https://img.shields.io/badge/🎯-Manifesto_do_Desenvolvedor-1f2937?style=flat-square" /><br><br>
+<i>"Essa música me representa. A letra diz: <b>'I don't believe in destiny... I just wanna be the best at what I know'</b>.<br><br>Gosto de pensar que na tecnologia, nosso destino não está escrito, ele é compilado linha por linha. A obsessão por dominar o que é novo (como IA e Spec-Driven Development) e a resiliência pros dias difíceis provam que <b>nós não esperamos o futuro; nós o codificamos.</b>"</i>
+</div>
+</td>
+<!-- LADO DIREITO: Card do Spotify -->
+<td width="300" style="border: none; padding: 10px; vertical-align: middle;">
+<a href="https://open.spotify.com/intl-pt/track/77dkNMG7UTHVO6vWPASdun" target="_blank" style="text-decoration: none;">
+<table style="border-collapse: collapse; background-color: #0D1117; color: white; border-radius: 12px; border: 1px solid #1f2937; margin: 0 auto; width: 100%;">
+<tr>
+<td style="padding: 15px; width: 80px; border: none;">
+<img src="https://img.youtube.com/vi/24C8r8JupYY/0.jpg" width="80" height="80" style="border-radius: 8px; object-fit: cover;" alt="Album Cover"/>
+</td>
+<td style="padding: 15px 20px 15px 5px; vertical-align: middle; border: none; text-align: left;">
+<h4 style="margin: 0 0 5px 0; font-size: 16px; font-family: -apple-system, sans-serif; font-weight: 600;">Destiny</h4>
+<p style="margin: 0; font-size: 14px; color: #a1a1aa;">NEFFEX</p>
+<div style="margin-top: 10px;">
+<img src="https://img.shields.io/badge/Spotify-Ouça_Agora-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+</div>
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            🎯 FUN METRICS                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+|  📊 **Métrica**  |      📈 **Valor**      |
+| :--------------: | :--------------------: |
+| 🕐 Coding Hours  | ☕ **Cafeína Powered** |
+|  🎯 Focus Level  |  🔥 **Maximum Vibe**   |
+| 🧠 Learning Mode |  🚀 **Always Active**  |
+|  💡 Innovation   |   ⚡ **Continuous**    |
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              🦶 FOOTER                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:EF4444,100:EC4899&height=120&section=footer"/>
+</p>
+
+<!--
+  ╔═══════════════════════════════════════════════════════════════════════════════╗
+  ║              Made with ❤️ by Vinícius Uchita | © 2025                         ║
+  ║                    Last Updated: March 2025                                   ║
+  ╚═══════════════════════════════════════════════════════════════════════════════╝
+-->
