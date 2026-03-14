@@ -185,12 +185,6 @@
 
 <h2 align="center">📌 Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/devviniuchita?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devviniuchita&repo=devviniuchita&theme=orange&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF&border_radius=12" alt="Featured Repo"/>
-  </a>
-</div>
-
 <p align="center">
   <a href="https://github.com/devviniuchita?tab=repositories">
     <img src="https://img.shields.io/badge/📂-Ver_Todos_os_Projetos-orange?style=for-the-badge&logo=github&logoColor=white"/>
@@ -217,10 +211,6 @@ passion: Tecnologia, Inovação e Spec-Driven Development
 ```
 
 </div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devviniuchita&theme=orange&hide_border=true" width="100%"/>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                          💡 PHILOSOPHY & QUOTES                                 -->
